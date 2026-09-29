@@ -1,6 +1,6 @@
 <!-- Header Banner dengan animasi subtle (Capsule Render SVG) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Halo,%20Saya%20[Alex%20]&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Halo,%20Saya%20Alex%20&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
 </p>
 
 <!-- Brief Pitch (Tanpa basa-basi berlebihan) -->
